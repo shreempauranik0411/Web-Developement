@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  .converter {
+    margin-top: 50px;
+  }
+  
+  input {
+    padding: 5px;
+    margin: 10px;
+  }
+  
